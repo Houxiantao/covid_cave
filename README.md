@@ -9,11 +9,12 @@ NOW HERE IS LOCAL CHANGE
 
 Go back in time
 
-1st commit
 
+<<<<<<< HEAD
 2nd commit 
 
 3rd commit
 
 4th commit
 
+5th
