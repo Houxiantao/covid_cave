@@ -28,10 +28,6 @@ t<2+1+1+1
 
 2st hou
 
-<<<<<<< HEAD
 4st hou
 
-
-=======
-3st
->>>>>>> parent of 0677d5e... 4st
+5st hou
