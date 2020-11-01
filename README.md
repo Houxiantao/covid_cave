@@ -27,6 +27,7 @@ t<2+1+1+1
 
 1st hou
 
-2th hou
+2st hou
 
+3st
 4st
