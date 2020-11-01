@@ -9,7 +9,7 @@ library(geojsonio)
 library(tmap)
 ```
 
-HELLO ITS ME1
+Hello it's me I'm hou
 
 
 ```{r dataSetup}
