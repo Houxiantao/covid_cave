@@ -32,9 +32,10 @@ t<2+1+1+1
 
 5st hou
 
+<<<<<<< HEAD
 6st hou
 
-7st hou  test
-
-
-
+7st hou
+=======
+6st hou
+>>>>>>> parent of 3ba1145... 6st
